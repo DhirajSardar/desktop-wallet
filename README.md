@@ -6,7 +6,7 @@ The official Alephium desktop wallet.
 
 ## Development
 
-Install depedencies with:
+Install dependencies with:
 
 ```shell
 npm install
